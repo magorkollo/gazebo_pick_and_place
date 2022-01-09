@@ -1,8 +1,0 @@
-prefix=/home/auto/Magor/University/RCS/project/install
-
-Name: turtlebot3_description
-Description: Description of turtlebot3_description
-Version: 1.2.5
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: urdf xacro

@@ -1,8 +1,0 @@
-prefix=/home/auto/Magor/University/RCS/project/devel
-
-Name: turtlebot3_slam
-Description: Description of turtlebot3_slam
-Version: 1.2.5
-Cflags: -I/home/auto/Magor/University/RCS/project/src/turtlebot3-melodic-devel/turtlebot3_slam/include
-Libs: -L${prefix}/lib 
-Requires: roscpp sensor_msgs
