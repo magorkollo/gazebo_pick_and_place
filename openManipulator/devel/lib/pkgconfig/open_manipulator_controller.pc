@@ -1,0 +1,8 @@
+prefix=/home/auto/Magor/openManipulator/devel
+
+Name: open_manipulator_controller
+Description: Description of open_manipulator_controller
+Version: 2.0.1
+Cflags: -I/home/auto/Magor/openManipulator/src/open_manipulator/open_manipulator_controller/include -I/usr/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs sensor_msgs geometry_msgs trajectory_msgs open_manipulator_msgs robotis_manipulator open_manipulator_libs cmake_modules

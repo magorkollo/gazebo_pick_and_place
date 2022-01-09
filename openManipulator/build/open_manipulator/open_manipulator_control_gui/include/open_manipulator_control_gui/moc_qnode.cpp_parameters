@@ -1,0 +1,7 @@
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="open_manipulator_control_gui"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/auto/Magor/openManipulator/build/open_manipulator/open_manipulator_control_gui/include/open_manipulator_control_gui/moc_qnode.cpp
+/home/auto/Magor/openManipulator/src/open_manipulator/open_manipulator_control_gui/include/open_manipulator_control_gui/qnode.hpp

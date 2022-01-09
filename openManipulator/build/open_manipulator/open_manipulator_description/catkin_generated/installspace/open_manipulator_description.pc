@@ -1,0 +1,8 @@
+prefix=/home/auto/Magor/openManipulator/install
+
+Name: open_manipulator_description
+Description: Description of open_manipulator_description
+Version: 2.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

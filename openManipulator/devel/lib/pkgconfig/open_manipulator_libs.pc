@@ -1,0 +1,8 @@
+prefix=/home/auto/Magor/openManipulator/devel
+
+Name: open_manipulator_libs
+Description: Description of open_manipulator_libs
+Version: 2.0.1
+Cflags: -I/home/auto/Magor/openManipulator/src/open_manipulator/open_manipulator_libs/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lopen_manipulator_libs
+Requires: roscpp robotis_manipulator dynamixel_workbench_toolbox cmake_modules

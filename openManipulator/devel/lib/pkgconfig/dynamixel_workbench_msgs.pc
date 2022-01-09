@@ -1,0 +1,8 @@
+prefix=/home/auto/Magor/openManipulator/devel
+
+Name: dynamixel_workbench_msgs
+Description: Description of dynamixel_workbench_msgs
+Version: 2.0.1
+Cflags: -I/home/auto/Magor/openManipulator/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs message_runtime

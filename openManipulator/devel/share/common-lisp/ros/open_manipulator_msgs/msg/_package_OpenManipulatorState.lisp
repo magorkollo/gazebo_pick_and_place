@@ -1,0 +1,6 @@
+(cl:in-package open_manipulator_msgs-msg)
+(cl:export '(OPEN_MANIPULATOR_MOVING_STATE-VAL
+          OPEN_MANIPULATOR_MOVING_STATE
+          OPEN_MANIPULATOR_ACTUATOR_STATE-VAL
+          OPEN_MANIPULATOR_ACTUATOR_STATE
+))

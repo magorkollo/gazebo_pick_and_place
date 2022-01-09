@@ -1,0 +1,8 @@
+prefix=/home/auto/Magor/openManipulator/install
+
+Name: open_manipulator_msgs
+Description: Description of open_manipulator_msgs
+Version: 1.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs message_runtime

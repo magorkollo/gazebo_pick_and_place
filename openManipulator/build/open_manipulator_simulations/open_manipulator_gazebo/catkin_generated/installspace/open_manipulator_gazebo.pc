@@ -1,0 +1,8 @@
+prefix=/home/auto/Magor/openManipulator/install
+
+Name: open_manipulator_gazebo
+Description: Description of open_manipulator_gazebo
+Version: 1.1.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs gazebo_ros gazebo_ros_control controller_manager xacro urdf
