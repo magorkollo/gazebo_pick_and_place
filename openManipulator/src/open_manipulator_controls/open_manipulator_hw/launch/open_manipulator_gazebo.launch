@@ -5,7 +5,7 @@
   <arg name="use_sim_time" default="true"/>
 
   <!-- World File -->
-  <arg name="world_file" default="$(find open_manipulator_tools)/worlds/magor_world.world"/>
+  <arg name="world_file" default="$(find open_manipulator_tools_new)/worlds/magor_world.world"/>
 
   <!-- Spawn z coordinate -->
   <arg name="z" default="1.02"/>
